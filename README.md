@@ -72,12 +72,12 @@
                     <tr>
                         <td>Instituto Tecnologico de Reynosa</td>
                         <td>Presente</td>
-                        <td>9.5</td>
+                        <td> indeterminado por el momento</td>
                     </tr>
                     <tr>
-                        <td>COBAT 09</td>
-                        <td>2020</td>
-                        <td>9.2</td>
+                        <td>COBAT 17</td>
+                        <td>2022</td>
+                        <td>9.6</td>
                     </tr>
                 </table>
             </div>            
