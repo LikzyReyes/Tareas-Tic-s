@@ -15,8 +15,9 @@
                 <h2>Contacto</h2>
 								<p><b>Nombre:</b> Likzy Hinojosa Reyes</p>
                 <p><b>Correo:</b> likzyreyes5@gmail.com</p>
-                <p><b>Celular :</b> 1234567890</p>
+                <p><b>Celular :</b> 8919690001</p>
 							  <p><b>Direccion :</b> Calle Alicia #607 Fracc. Santa Lucia C.P. 88400</p>
+		    <p><b> Años :</b> 18 </p>
             </div>
             <div class="Skills">
                 <h2>Habilidades</h2>
