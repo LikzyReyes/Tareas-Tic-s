@@ -76,7 +76,7 @@
                     </tr>
                     <tr>
                         <td>COBAT 17</td>
-                        <td>2022</td>
+                        <td>2023</td>
                         <td>9.6</td>
                     </tr>
                 </table>
